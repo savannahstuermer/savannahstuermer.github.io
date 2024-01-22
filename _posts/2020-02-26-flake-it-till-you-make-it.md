@@ -3,7 +3,7 @@ layout: post
 title: From The Heart
 subtitle: My Mental Health and Yoga Journey
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/Headshot.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 author: Savannah Stuermer

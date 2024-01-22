@@ -1,6 +1,6 @@
 ---
 layout: post
-title: From The Heart: 
+title: From The Heart
 subtitle: My Mental Health and Yoga Journey
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
